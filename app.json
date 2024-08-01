@@ -2,6 +2,11 @@
   "expo": {
     "name": "bomb-game",
     "slug": "bomb-game",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "backgroundColor": "#000000"
+    },
+    "icon": "./src/assets/icon.png"
   }
 }
